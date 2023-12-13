@@ -80,24 +80,24 @@ const RegistrationPage: React.FC = () => {
             <div className="overlap-group-2">
               <div className="frame-3" />
               <div className="rectangle-wrapper">
-                <img
-                  className="rectangle"
-                  alt="Rectangle"
-                  src="https:cdn.animaapp.com/projects/654b7f52f15e9264a9097b82/releases/654b7fa037c3baf19c3c050e/img/rectangle-26-1@2x.png"
-                />
+              <img
+                      className="rectangle"
+                      alt="Rectangle"
+                      src="https://cdn.animaapp.com/projects/655f92dc0766bf3af8d25900/releases/655f92fbdb73116fabe3bec0/img/rectangle-26-1@2x.png"
+                    />
               </div>
             </div>
           </div>
           <img
-            className="frame-why-noviopus"
-            alt="Frame why noviopus"
-            src="https:cdn.animaapp.com/projects/654b7f52f15e9264a9097b82/releases/654b7fa037c3baf19c3c050e/img/frame-why-noviopus-1@2x.png"
-          />
+                className="frame-why-noviopus"
+                alt="Frame why noviopus"
+                src="https://cdn.animaapp.com/projects/655f92dc0766bf3af8d25900/releases/655f92fbdb73116fabe3bec0/img/frame-why-noviopus-1@2x.png"
+              />
           <img
-            className="frame-arrow"
-            alt="Frame arrow"
-            src="https:cdn.animaapp.com/projects/654b7f52f15e9264a9097b82/releases/654b7fa037c3baf19c3c050e/img/frame-arrow-1@2x.png"
-          />
+                className="frame-arrow"
+                alt="Frame arrow"
+                src="https://cdn.animaapp.com/projects/655f92dc0766bf3af8d25900/releases/655f92fbdb73116fabe3bec0/img/frame-arrow-1@2x.png"
+              />
           <div className="frame-sign-in-form">
       <div className="frame-4">
         
